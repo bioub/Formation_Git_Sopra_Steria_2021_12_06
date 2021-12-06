@@ -10,3 +10,9 @@ Exemple de fichier versionné pendant la formation
 - git commit
 - git status
 - git log
+
+## Memento sur les branches
+
+- git branch
+- git switch
+- git checkout
