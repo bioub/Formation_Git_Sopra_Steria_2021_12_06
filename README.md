@@ -16,3 +16,5 @@ Exemple de fichier versionné pendant la formation
 - git branch
 - git switch
 - git checkout
+- git merge
+
